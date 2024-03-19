@@ -2,8 +2,8 @@
 
 ### This Prestashop module allows to transfert data to/from Picsoo from/to Prestashop.
 
-Demo version is available at [PICSOO API DEMO](http://picsoocloud.com/picsooapidemo/). \
-Documentation is available at [PICSOO API DOCUMENTATION](http://picsoocloud.com/picsooapidoc/). 
+Please, read the documentation first. 
+Any problems/bugs/suggestions should be reported here in Github.
 
 ## Current version : 1.2.0
 
