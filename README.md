@@ -13,7 +13,7 @@ Any problems/bugs/suggestions should be reported here in Github.
 
 - after having downloaded the zip, you need to edit the file Picsoo_ws.php from the zip; it's located in the libs folder and change :
 
-    private $UserName  = 'mycompany@picsoo.eu';
+    private $UserName  = 'mycompany@picsoo.eu';<br>
     private $Password  = 'abcd12345';
 
 by replacing the email and password with those you log in Picsoo
