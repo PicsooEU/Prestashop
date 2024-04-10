@@ -7,6 +7,7 @@ Any problems/bugs/suggestions should be reported here in Github.
 
 ## Current version : 1.3.0
 
+IMPORTANT :
 
 ### What's new in the latest version : 
 
