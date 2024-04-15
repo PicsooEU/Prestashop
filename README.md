@@ -18,6 +18,26 @@ Any problems/bugs/suggestions should be reported here in Github.
 
 by replacing the email and password with those you log in Picsoo
 
+- if you have trouble while transferring huge amount of data and you get a 500 error message from the server; please, read this :
+
+  https://prestashop.com/blog/tech-en/what-is-the-http-500-error-and-how-can-i-fix-it-in-my-prestashop-online-store/
+
+  3. Waiting time has expired
+        Each server has its own waiting time, which determines how long a script will run.
+
+        If the function or script exceeds this time limit, you will receive a 500 error.
+
+        Here are the PrestaShop scripts that may take too long to load:
+
+            Importing CSV files.
+            Backup files.
+            Loading translations.
+            Import/export.
+            Regenerating miniature views.
+            In most cases, the server time limit is 30 seconds, which is not enough for these scripts.
+
+    >>> In this case, you should contact your host and ask them to change this setting (at least temporarily).
+
 ### What's new in the latest version : 
 
 - First release ```... ...```. 
