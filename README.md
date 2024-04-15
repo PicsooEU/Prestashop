@@ -16,7 +16,7 @@ Any problems/bugs/suggestions should be reported here in Github.
     private $UserName  = 'mycompany@picsoo.eu';<br>
     private $Password  = 'abcd12345';
 
-by replacing the email and password with those you log in Picsoo
+    >> by replacing the email and password with those you log in Picsoo
 
 - if you have trouble while transferring huge amount of data and you get a 500 error message from the server; please, read this :
 
