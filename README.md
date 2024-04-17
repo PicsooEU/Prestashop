@@ -18,7 +18,7 @@ Any problems/bugs/suggestions should be reported here in Github.
 
     >> by replacing the email and password with those you log in Picsoo
 
-- process can be very long, sometimes more than hours !!! this is due to the complexity of Prestashop -- be patient !
+- the process can be very long; sometimes even several hours !!! this is due to the complexity of Prestashop -- be patient !
   
 - if you have trouble while transferring huge amount of data and you get a 500 error message from the server; please, read this :
 
