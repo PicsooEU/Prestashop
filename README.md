@@ -5,7 +5,7 @@
 Please, read the documentation first. 
 Any problems/bugs/suggestions should be reported here in Github.
 
-## Current version : 1.3.0
+## Current version : 1.4.0
 
 ### IMPORTANT :
 
@@ -47,9 +47,8 @@ Any problems/bugs/suggestions should be reported here in Github.
   - ...
 - 1.3.0 April 9th, 2024:
   - ...
- 
 - 1.4.0 
-  - coming soon
+  - ...
 
 
 ## Credits & copyright
