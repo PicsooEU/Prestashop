@@ -1,6 +1,6 @@
 # Prestashop module for Picsoo
 
-### This Prestashop module allows to transfert data to/from Picsoo from/to Prestashop.
+### This Prestashop module allows to transfert data between Picsoo and Prestashop.
 
 Please, read the documentation first. 
 Any problems/bugs/suggestions should be reported here in Github.
