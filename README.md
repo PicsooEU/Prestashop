@@ -5,7 +5,7 @@
 Please, read the documentation first. 
 Any problems/bugs/suggestions should be reported here in Github.
 
-## Current version : 1.4.0
+## Current version : 1.5.0
 
 ### IMPORTANT :
 
@@ -53,7 +53,8 @@ Any problems/bugs/suggestions should be reported here in Github.
   - ...
 - 1.4.0 
   - ...
-
+- 1.5.0 May 6th, 2024:
+  - ...
 
 ## Credits & copyright
 
