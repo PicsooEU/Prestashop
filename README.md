@@ -40,6 +40,10 @@ Any problems/bugs/suggestions should be reported here in Github.
 
     >>> In this case, you should contact your host and ask them to change this setting (at least temporarily).
 
+ ### RESTRICTIONS :
+    - only new items/products from Picsoo are transferred to Prestashop, no update available at this moment (future development)
+    - Per restriction of Prestashop, only the pictures with format JPG and PNG are transferred from Picsoo.
+
 ### What's new in the latest version : 
 
 - First release ```... ...```. 
