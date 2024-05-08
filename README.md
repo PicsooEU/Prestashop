@@ -54,7 +54,8 @@ Any problems/bugs/suggestions should be reported here in Github.
 - 1.4.0 
   - ...
 - 1.5.0 May 6th, 2024:
-  - ...
+  - modifications have been made in Picsoo; so, it's necessary to upgrade to this version.
+  - several bugs fixed.
 
 ## Credits & copyright
 
