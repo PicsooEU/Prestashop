@@ -9,7 +9,9 @@ Any problems/bugs/suggestions should be reported here in Github.
 
 ### IMPORTANT :
 
-- before installing a new version, you need to un-install the previous version first; don't perform an update !
+- before installing a new version, you need to :
+    - MAKE A BACKUP OF YOU DATA !
+    - un-install the previous version first; don't perform an update !
 
 - after having downloaded the zip, you need to edit the file Picsoo_ws.php from the zip; it's located in the 'libs' folder (+/- line 25) and change :
 
