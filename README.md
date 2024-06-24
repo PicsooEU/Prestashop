@@ -9,6 +9,7 @@ Any problems/bugs/suggestions should be reported here in Github.
 
 ### IMPORTANT :
 
+- this module has been tested on Prestashop 1.7.8.5 with PHP 7.4.33 & 8.1.12
 - before installing a new version, you need to :
     - MAKE A BACKUP OF YOU DATA !
     - un-install the previous version first; don't perform an update !
