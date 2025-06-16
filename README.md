@@ -5,7 +5,7 @@
 Please, read the documentation first. 
 Any problems/bugs/suggestions should be reported here in Github.
 
-## Current version : 1.5.0
+## Current/Last version : 1.6.0
 
 ### IMPORTANT :
 
@@ -59,6 +59,9 @@ Any problems/bugs/suggestions should be reported here in Github.
 - 1.5.0 May 6th, 2024:
   - modifications have been made in Picsoo; so, it's necessary to upgrade to this version.
   - several bugs fixed.
+- 1.6.0 June 16th, 2025:
+  - several bugs fixed.
+  - added checkbox in parameters to send or not quantities from Prestashop to Picsoo (default = false)
 
 ## Credits & copyright
 
