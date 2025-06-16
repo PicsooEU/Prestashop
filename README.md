@@ -11,7 +11,7 @@ Any problems/bugs/suggestions should be reported here in Github.
 
 - this module has been tested on Prestashop 8.1.2 with PHP 7.4.33
 - before installing a new version, you need to :
-    - MAKE A BACKUP OF YOU DATA !
+    - MAKE A BACKUP OF YOUR DATA !
     - un-install the previous version first; don't perform an update !
 
 - after having downloaded the zip, you need to edit the file Picsoo_ws.php from the zip; it's located in the '[root]/modules/picsoo/libs' folder (+/- line #25) and change :
