@@ -5,7 +5,7 @@
 Please, read the documentation first. 
 Any problems/bugs/suggestions should be reported here in Github.
 
-## Current/Last version : 1.8.0
+## Current/Last version : 1.9.0
 
 ### IMPORTANT :
 
@@ -61,12 +61,15 @@ Any problems/bugs/suggestions should be reported here in Github.
   - several bugs fixed.
 - 1.6.0 June 16th, 2025:
   - several bugs fixed.
-  - added checkbox in parameters to send or not quantities from Prestashop to Picsoo (default = false)
+  - added checkbox in parameters to send or not quantities from Prestashop to Picsoo (default = false).
 - 1.7.0 September 2nd, 2025:
-  - BUG FIXED : export product : when a product has no image, bug on getimagesize with "Path cannot be empty"
-  - BUG FIXED : export customer : error on $result['IsSuccess'] with "Cannot access offset of type string on string"
+  - BUG FIXED : export product : when a product has no image, bug on getimagesize with "Path cannot be empty".
+  - BUG FIXED : export customer : error on $result['IsSuccess'] with "Cannot access offset of type string on string".
 - 1.8.0 September 4th, 2025:
-  - BUG FIXED : export product : error on $result['IsSuccess'] with "Cannot access offset of type string on string" when count of items > 1000
+  - BUG FIXED : export product : error on $result['IsSuccess'] with "Cannot access offset of type string on string" when count of items > 1000.
+- 1.9.0 September 10th, 2025:
+  - BUG FIXED : export product : error on $result['IsSuccess'] with "Cannot access offset of type string on string" on line 1286 picsoo.php.
+  - replaced all other $result['IsSuccess'] with existing check before.
 
 ## Credits & copyright
 
